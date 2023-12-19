@@ -1,6 +1,11 @@
 # Flutter BootCamp 🥇✨🎉
 
-Welcome to the Flutter BootCamp – where innovation meets education! 🚀 This transformative learning experience is a collaborative effort, with immense credit owed to the brilliant mind behind it all: Dr. Angela Yu of App Brewery. A heartfelt thank you to Dr. Yu for crafting a course that seamlessly blends comprehensive knowledge with hands-on learning, setting the stage for an exciting journey into the world of Flutter development.
+Welcome to the Flutter BootCamp – 🚀 
+
+You'll learn Flutter from scratch to build fast, beautiful, native-quality, iOS, and Android apps using just one code base. And you'll build many beautiful apps and projects to add to your portfolio. 
+By the end of the course, you will be a fully-fledged Flutter developer by mastering stateful and stateless widgets, declarative programming, Lisp views, animations, streams, futures, and much more. 
+These projects are from the Course [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/share/101WB63@_gPdLfrBVIhQoLT7ayG3qzxYkwLdi0eDMk3Ulpzyw_urZJqV5iY9wwPBcuFmjODAww==/) by Angela Yu. 
+These projects have been modified and extended with additional concepts and personal touch. A heartfelt thank you to Dr. Yu for crafting a course that seamlessly blends comprehensive knowledge with hands-on learning, setting the stage for an exciting journey into the world of Flutter development.
 
 # Topics Covered Project-wise 📂💫📝
 
@@ -24,7 +29,7 @@ Welcome to the Flutter BootCamp – where innovation meets education! 🚀 This 
 
 ## 4. Leveraging Flutter Packages to Speed Up Development
 
-- Incorporate the audioplayers package for sound playback.
+- Incorporate the audio players package for sound playback.
 - Dive deeper into functions in Dart and the arrow syntax.
 
 ## 5. Structuring Flutter Apps
@@ -43,7 +48,7 @@ Welcome to the Flutter BootCamp – where innovation meets education! 🚀 This 
 ## 7. Powering Flutter Apps with Backend Data
 
 - Use the http package to perform networking and fetch live data from open APIs.
-- Parse JSON data using the dart:convert library.
+- Parse JSON data using the dart: convert library.
 - Pass data to State objects via the Stateful Widget.
 
 ## 8. Cupertino Widgets and Platform-Based UI
@@ -59,7 +64,7 @@ Welcome to the Flutter BootCamp – where innovation meets education! 🚀 This 
 
 - Explore how `setState` works under the hood.
 - Learn about prop drilling and lifting state up.
-- Create a todo list app.
+- Create a to-do list app.
 
 Now, dive into the exciting world of Flutter development and master these topics step by step! 🚀✨
 
