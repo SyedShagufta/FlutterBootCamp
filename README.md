@@ -1,4 +1,4 @@
-# Flutter BootCamp 🥇✨🎉
+# Flutter BootCamp ✨🎉
 
 Welcome to the Flutter BootCamp – 🚀 
 
